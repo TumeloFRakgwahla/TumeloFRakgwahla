@@ -1,4 +1,4 @@
-# 😎 i'm Tumelo Faith Rakgwahla.
+# 😎Hello world! I'm Tumelo Faith Rakgwahla.
 ☁️I'm an innovative and motivated individual, <br> a passionate learner striving to become the best developer.<br>💻 Im currently working on my own personal project.<br>📖 Im currently learning ASP.Net core.<br> 
 
 
