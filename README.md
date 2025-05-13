@@ -1,6 +1,9 @@
-# 😎Hello world! I'm Tumelo Faith Rakgwahla.
-☁️I'm an innovative and motivated individual, <br> a passionate learner striving to become the best developer.<br>💻 Im currently working on my own personal project.<br>📖 Im currently learning ASP.Net core.<br> 
+# 👋 Hi, I'm Tumelo Faith Rakgwahla.
 
+🎓 IT Graduate | 💻 Aspiring Full-Stack Developer <br/>
+🌱 Currently learning ASP.NET Core, C#, and Web Development <br/>
+🛠️ Skills: HTML, CSS, JavaScript, PHP, SQL, C# <br/>
+📂 Building projects to sharpen my skills – check out my repositories! <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tumelo-rakgwahla) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tumirakgwahla?_t=ZM-8wIvigL99N8&_r=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tumelorakgwahl@gmail.com) 
