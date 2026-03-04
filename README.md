@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tumelo Faith Rakgwahla.
 
 🎓 IT Graduate | 💻 Aspiring Full-Stack Developer <br/>
-🌱 Currently learning ASP.NET Core, C#, and Web Development <br/>
+🌱 Currently learning React, Javascript, Node.js and Express and Web Development <br/>
 🛠️ Skills: HTML, CSS, JavaScript, PHP, SQL, C# <br/>
 📂 Building projects to sharpen my skills – check out my repositories! <br/>
 
